@@ -15,6 +15,7 @@ __pycache__/
 # Streamlit cache and logs
 .streamlit/
 logs/
+.streamlit/secrets.toml
 *.log
 
 # OS files
